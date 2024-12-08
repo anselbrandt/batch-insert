@@ -1,0 +1,7 @@
+__pycache__/
+clean_labeled/
+clean_splitwavs/
+labeled/
+splitwavs/
+logs.txt
+*.db
