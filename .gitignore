@@ -1,7 +1,9 @@
 __pycache__/
 clean_labeled/
 clean_splitwavs/
+clean_mp3s/
 labeled/
 splitwavs/
+mp3s/
 logs.txt
 *.db
